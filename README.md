@@ -144,10 +144,6 @@ someone will review it soon.
 
 ### Custom Safe Outputs
 
-- [Safe Output App Config](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/safe-output-app.md) - Shared GitHub App authentication configuration for safe outputs
-- [Daily Safe Outputs Conformance](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-safe-outputs-conformance.md) - Daily automated conformance checks against the Safe Outputs specification
-- [Daily Safe Output Optimizer](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-safe-output-optimizer.md) - Analyze gateway logs for safe output errors and create issues to improve tool descriptions
-- [Weekly Safe Outputs Spec Review](https://github.com/github/gh-aw/blob/main/.github/workflows/weekly-safe-outputs-spec-review.md) - Weekly alignment check between the Safe Outputs specification and its conformance checker
 
 ### MCP Wrappers
 
