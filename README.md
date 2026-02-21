@@ -200,26 +200,6 @@ Notable shared templates:
 - 🌟 [Prompt Clustering Analysis](https://github.com/github/gh-aw/blob/main/.github/workflows/prompt-clustering-analysis.md) - Cluster and analyze prompts
 - 🌟 [Ubuntu Image Analyzer](https://github.com/github/gh-aw/blob/main/.github/workflows/ubuntu-image-analyzer.md) - Analyze Ubuntu runner images
 
-## Tutorials & Guides
-
-### Official Tutorials
-
-- [Creating Your First Workflow](https://github.com/github/gh-aw/blob/main/.github/aw/create-agentic-workflow.md)
-- [Updating Workflows](https://github.com/github/gh-aw/blob/main/.github/aw/update-agentic-workflow.md)
-- [Debugging Workflows](https://github.com/github/gh-aw/blob/main/.github/aw/debug-agentic-workflow.md)
-- [Upgrading Workflows](https://github.com/github/gh-aw/blob/main/.github/aw/upgrade-agentic-workflows.md)
-
-### Blog Posts
-
-- [Meet the Workflows](https://github.com/github/gh-aw/blob/main/docs/src/content/docs/blog/2026-01-13-meet-the-workflows.md) - Introduction to agentic workflows
-- [Tool Infrastructure Workflows](https://github.com/github/gh-aw/blob/main/docs/src/content/docs/blog/2026-01-13-meet-the-workflows-tool-infrastructure.md) - MCP server inspection and tools
-- [Continuous Improvement Workflows](https://github.com/github/gh-aw/blob/main/docs/src/content/docs/blog/2026-01-13-meet-the-workflows-continuous-improvement.md) - Code quality and refactoring
-- [Advanced Analytics Workflows](https://github.com/github/gh-aw/blob/main/docs/src/content/docs/blog/2026-01-13-meet-the-workflows-advanced-analytics.md) - Session analysis and insights
-
-### Video Tutorials
-
-- Coming soon! (Submit your videos via PR)
-
 ## Real-World Use Cases
 
 ### Open Source Projects
