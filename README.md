@@ -87,7 +87,6 @@ someone will review it soon.
 - [Grumpy Reviewer](https://github.com/github/gh-aw/blob/main/.github/workflows/grumpy-reviewer.md) - Strict code review with high standards
 - [Copilot PR NLP Analysis](https://github.com/github/gh-aw/blob/main/.github/workflows/copilot-pr-nlp-analysis.md) - NLP analysis of pull request content
 - [Breaking Change Checker](https://github.com/github/gh-aw/blob/main/.github/workflows/breaking-change-checker.md) - Identify potential breaking changes
-- [PR Fix](https://github.com/github/gh-aw/blob/main/.github/workflows/pr-fix.md) - Automatically fix issues in pull requests
 - [PR Triage Agent](https://github.com/github/gh-aw/blob/main/.github/workflows/pr-triage-agent.md) - Categorize, assess risk, and prioritize agent-created pull requests with scoring and batch review recommendations
 - [PR Nitpick Reviewer](https://github.com/github/gh-aw/blob/main/.github/workflows/pr-nitpick-reviewer.md) - Detail-oriented code review targeting style and convention issues that linters miss
 - [Draft PR Cleanup](https://github.com/github/gh-aw/blob/main/.github/workflows/draft-pr-cleanup.md) - Automatically identify and clean up stale draft pull requests
@@ -116,7 +115,6 @@ someone will review it soon.
 
 - [Workflow Generator](https://github.com/github/gh-aw/blob/main/.github/workflows/workflow-generator.md) - Generate new workflows from descriptions
 - [Q](https://github.com/github/gh-aw/blob/main/.github/workflows/q.md) - Interactive Q&A workflow for assistance
-- [Daily Accessibility Review](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-accessibility-review.md) - Daily accessibility checks
 - [Daily Performance Improver](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-perf-improver.md) - Performance optimization suggestions
 
 ### Security
