@@ -147,25 +147,25 @@ someone will review it soon.
 
 ### MCP Wrappers
 
-- [MCP Inspector](https://github.com/github/gh-aw/blob/main/.github/workflows/mcp-inspector.md) - Inspect MCP server capabilities
-- [GitHub MCP Tools Report](https://github.com/github/gh-aw/blob/main/.github/workflows/github-mcp-tools-report.md) - Report on GitHub MCP tools
-- [arXiv MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/arxiv.md) - Access arXiv research papers for searching, fetching metadata, and retrieving PDFs
-- [AST Grep MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/ast-grep.md) - Structural code search and pattern matching using AST analysis
-- [Azure MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/azure.md) - Read-only access to 40+ Azure services including Key Vault, Storage, and AI Foundry
-- [Brave Search MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/brave.md) - Web and news search via the Brave Search API
-- [Chroma MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/chroma.md) - Vector database with semantic search and persistent document storage
-- [Context7 MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/context7.md) - Fetch up-to-date library documentation and API references
-- [Datadog MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/datadog.md) - Query Datadog monitoring data for metrics, logs, and incidents
-- [DeepWiki MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/deepwiki.md) - Access deep wiki information about GitHub repositories
-- [Drain3 MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/drain3.md) - Log template mining and pattern analysis using the Drain3 algorithm
-- [Jupyter MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/jupyter.md) - Execute code and manage Jupyter notebooks programmatically
-- [MarkItDown MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/markitdown.md) - Convert documents (PDF, Office, HTML) to Markdown
-- [Notion MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/notion.md) - Integrate with Notion workspaces for pages, databases, and blocks
-- [Semgrep MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/semgrep.md) - Static analysis and security scanning with custom and built-in rules
-- [Sentry MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/sentry.md) - Query Sentry for error tracking, issues, and performance data
-- [Memory Server MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/server-memory.md) - Persistent key-value memory store for agents across workflow runs
-- [Slack MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/slack.md) - Send messages, read channels, and interact with Slack workspaces
-- [Tavily Search MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/tavily.md) - AI-optimized web search with structured results via the Tavily API
+- 🌟 [MCP Inspector](https://github.com/github/gh-aw/blob/main/.github/workflows/mcp-inspector.md) - Inspect MCP server capabilities
+- 🌟 [GitHub MCP Tools Report](https://github.com/github/gh-aw/blob/main/.github/workflows/github-mcp-tools-report.md) - Report on GitHub MCP tools
+- 🌟 [arXiv MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/arxiv.md) - Access arXiv research papers for searching, fetching metadata, and retrieving PDFs
+- 🌟 [AST Grep MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/ast-grep.md) - Structural code search and pattern matching using AST analysis
+- 🌟 [Azure MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/azure.md) - Read-only access to 40+ Azure services including Key Vault, Storage, and AI Foundry
+- 🌟 [Brave Search MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/brave.md) - Web and news search via the Brave Search API
+- 🌟 [Chroma MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/chroma.md) - Vector database with semantic search and persistent document storage
+- 🌟 [Context7 MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/context7.md) - Fetch up-to-date library documentation and API references
+- 🌟 [Datadog MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/datadog.md) - Query Datadog monitoring data for metrics, logs, and incidents
+- 🌟 [DeepWiki MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/deepwiki.md) - Access deep wiki information about GitHub repositories
+- 🌟 [Drain3 MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/drain3.md) - Log template mining and pattern analysis using the Drain3 algorithm
+- 🌟 [Jupyter MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/jupyter.md) - Execute code and manage Jupyter notebooks programmatically
+- 🌟 [MarkItDown MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/markitdown.md) - Convert documents (PDF, Office, HTML) to Markdown
+- 🌟 [Notion MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/notion.md) - Integrate with Notion workspaces for pages, databases, and blocks
+- 🌟 [Semgrep MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/semgrep.md) - Static analysis and security scanning with custom and built-in rules
+- 🌟 [Sentry MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/sentry.md) - Query Sentry for error tracking, issues, and performance data
+- 🌟 [Memory Server MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/server-memory.md) - Persistent key-value memory store for agents across workflow runs
+- 🌟 [Slack MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/slack.md) - Send messages, read channels, and interact with Slack workspaces
+- 🌟 [Tavily Search MCP](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp/tavily.md) - AI-optimized web search with structured results via the Tavily API
 
 ### Reusable Templates
 
@@ -173,13 +173,13 @@ Browse the [shared workflows directory](https://github.com/github/gh-aw/tree/mai
 
 Notable shared templates:
 
-- [GitHub Queries Safe Input](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/github-queries-safe-input.md) - Pre-built safe input patterns for common GitHub API queries
-- [PR Data Safe Input](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/pr-data-safe-input.md) - Safe input templates for pull request data retrieval
-- [MCP Debug Utilities](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp-debug.md) - Debugging tools and patterns for MCP server interactions
-- [Python Data Visualization](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/python-dataviz.md) - Reusable Python visualization patterns for generating charts and graphs
-- [Metrics Patterns](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/metrics-patterns.md) - Common metrics collection and reporting templates
-- [Token Cost Analysis](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/token-cost-analysis.md) - Analyze and optimize AI model token usage and costs
-- [Ollama Threat Scan](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/ollama-threat-scan.md) - Threat scanning using locally-run Ollama models
+- 🌟 [GitHub Queries Safe Input](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/github-queries-safe-input.md) - Pre-built safe input patterns for common GitHub API queries
+- 🌟 [PR Data Safe Input](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/pr-data-safe-input.md) - Safe input templates for pull request data retrieval
+- 🌟 [MCP Debug Utilities](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/mcp-debug.md) - Debugging tools and patterns for MCP server interactions
+- 🌟 [Python Data Visualization](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/python-dataviz.md) - Reusable Python visualization patterns for generating charts and graphs
+- 🌟 [Metrics Patterns](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/metrics-patterns.md) - Common metrics collection and reporting templates
+- 🌟 [Token Cost Analysis](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/token-cost-analysis.md) - Analyze and optimize AI model token usage and costs
+- 🌟 [Ollama Threat Scan](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/ollama-threat-scan.md) - Threat scanning using locally-run Ollama models
 
 ## Tools & Utilities
 
@@ -195,10 +195,10 @@ Notable shared templates:
 
 ### Development Tools
 
-- [Agent Performance Analyzer](https://github.com/github/gh-aw/blob/main/.github/workflows/agent-performance-analyzer.md) - Analyze agent execution metrics
-- [Copilot Agent Analysis](https://github.com/github/gh-aw/blob/main/.github/workflows/copilot-agent-analysis.md) - Deep analysis of Copilot agent behavior
-- [Prompt Clustering Analysis](https://github.com/github/gh-aw/blob/main/.github/workflows/prompt-clustering-analysis.md) - Cluster and analyze prompts
-- [Ubuntu Image Analyzer](https://github.com/github/gh-aw/blob/main/.github/workflows/ubuntu-image-analyzer.md) - Analyze Ubuntu runner images
+- 🌟 [Agent Performance Analyzer](https://github.com/github/gh-aw/blob/main/.github/workflows/agent-performance-analyzer.md) - Analyze agent execution metrics
+- 🌟 [Copilot Agent Analysis](https://github.com/github/gh-aw/blob/main/.github/workflows/copilot-agent-analysis.md) - Deep analysis of Copilot agent behavior
+- 🌟 [Prompt Clustering Analysis](https://github.com/github/gh-aw/blob/main/.github/workflows/prompt-clustering-analysis.md) - Cluster and analyze prompts
+- 🌟 [Ubuntu Image Analyzer](https://github.com/github/gh-aw/blob/main/.github/workflows/ubuntu-image-analyzer.md) - Analyze Ubuntu runner images
 
 ## Tutorials & Guides
 
@@ -225,7 +225,6 @@ Notable shared templates:
 ### Open Source Projects
 
 - **[gh-aw Repository](https://github.com/github/gh-aw)** - The official repository with 50+ production workflows
-- **This Repository** - Jira/Confluence integration for PR validation
 
 ### Company Implementations
 
