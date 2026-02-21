@@ -10,7 +10,6 @@ GitHub Agentic Workflows is a revolutionary approach to automation that lets you
 - [Getting Started](#getting-started)
 - [Example Workflows](#example-workflows)
 - [Shared Components](#shared-components)
-- [MCP Servers](#mcp-servers)
 - [Tools & Utilities](#tools--utilities)
 - [Tutorials & Guides](#tutorials--guides)
 - [Real-World Use Cases](#real-world-use-cases)
@@ -185,26 +184,6 @@ Notable shared templates:
 - [Metrics Patterns](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/metrics-patterns.md) - Common metrics collection and reporting templates
 - [Token Cost Analysis](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/token-cost-analysis.md) - Analyze and optimize AI model token usage and costs
 - [Ollama Threat Scan](https://github.com/github/gh-aw/blob/main/.github/workflows/shared/ollama-threat-scan.md) - Threat scanning using locally-run Ollama models
-
-## MCP Servers
-
-### Official MCP Servers
-
-- [Filesystem MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - File system operations
-- [GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - GitHub API integration
-- [PostgreSQL MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) - Database operations
-- [Slack MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - Slack integration
-
-### Community MCP Servers
-
-- **Atlassian MCP** - Jira and Confluence integration (used in this repo)
-- [MCP Servers Repository](https://github.com/modelcontextprotocol/servers) - Official collection of MCP servers
-- [Azure MCP Server](https://github.com/microsoft/mcp/tree/main/servers/Azure.Mcp.Server) - Microsoft Azure services with 40+ integrations in read-only mode
-- [Semgrep MCP Server](https://github.com/semgrep/semgrep) - Static analysis and security scanning for multiple languages
-- [Chroma MCP Server](https://github.com/chroma-core/chroma-mcp) - Vector database for semantic search and persistent embedding storage
-- [Datadog MCP Server](https://github.com/DataDog/datadog-mcp-server) - Datadog observability platform integration
-- [Sentry MCP Server](https://github.com/getsentry/sentry-mcp) - Error tracking and application performance monitoring
-- Submit your MCP server integrations via PR!
 
 ## Tools & Utilities
 
