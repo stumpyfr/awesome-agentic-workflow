@@ -74,69 +74,71 @@ someone will review it soon.
 
 > **Browse 50+ production workflows** in the [gh-aw repository](https://github.com/github/gh-aw/tree/main/.github/workflows) or view the [Agent Factory Status](https://github.github.com/gh-aw/agent-factory-status/) page.
 
+> 🌟 **Legend:** Workflows marked with 🌟 are **official examples from the gh-aw documentation** — they are fully functional starting points designed to be copied and customized for your specific needs!
+
 ### Issue Management
 
-- [Issue Triage Agent](https://github.com/github/gh-aw/blob/main/.github/workflows/issue-triage-agent.md) - Automatically label and assign issues based on content
-- [Stale Repo Identifier](https://github.com/github/gh-aw/blob/main/.github/workflows/stale-repo-identifier.md) - Identify and report on inactive repositories
-- [Auto Triage Issues](https://github.com/github/gh-aw/blob/main/.github/workflows/auto-triage-issues.md) - Automatically categorize and label new and existing unlabeled issues using keyword and pattern analysis
-- [Sub-Issue Closer](https://github.com/github/gh-aw/blob/main/.github/workflows/sub-issue-closer.md) - Recursively close parent issues when all their sub-issues are completed
-- [Issue Arborist](https://github.com/github/gh-aw/blob/main/.github/workflows/issue-arborist.md) - Prune and organize issue trees for better project tracking
+- 🌟 [Issue Triage Agent](https://github.com/github/gh-aw/blob/main/.github/workflows/issue-triage-agent.md) - Automatically label and assign issues based on content
+- 🌟 [Stale Repo Identifier](https://github.com/github/gh-aw/blob/main/.github/workflows/stale-repo-identifier.md) - Identify and report on inactive repositories
+- 🌟 [Auto Triage Issues](https://github.com/github/gh-aw/blob/main/.github/workflows/auto-triage-issues.md) - Automatically categorize and label new and existing unlabeled issues using keyword and pattern analysis
+- 🌟 [Sub-Issue Closer](https://github.com/github/gh-aw/blob/main/.github/workflows/sub-issue-closer.md) - Recursively close parent issues when all their sub-issues are completed
+- 🌟 [Issue Arborist](https://github.com/github/gh-aw/blob/main/.github/workflows/issue-arborist.md) - Prune and organize issue trees for better project tracking
 
 ### Pull Request Automation
 
-- [Grumpy Reviewer](https://github.com/github/gh-aw/blob/main/.github/workflows/grumpy-reviewer.md) - Strict code review with high standards
-- [Copilot PR NLP Analysis](https://github.com/github/gh-aw/blob/main/.github/workflows/copilot-pr-nlp-analysis.md) - NLP analysis of pull request content
-- [Breaking Change Checker](https://github.com/github/gh-aw/blob/main/.github/workflows/breaking-change-checker.md) - Identify potential breaking changes
-- [PR Triage Agent](https://github.com/github/gh-aw/blob/main/.github/workflows/pr-triage-agent.md) - Categorize, assess risk, and prioritize agent-created pull requests with scoring and batch review recommendations
-- [PR Nitpick Reviewer](https://github.com/github/gh-aw/blob/main/.github/workflows/pr-nitpick-reviewer.md) - Detail-oriented code review targeting style and convention issues that linters miss
-- [Draft PR Cleanup](https://github.com/github/gh-aw/blob/main/.github/workflows/draft-pr-cleanup.md) - Automatically identify and clean up stale draft pull requests
-- [Security Review](https://github.com/github/gh-aw/blob/main/.github/workflows/security-review.md) - Security-focused PR reviews to catch changes that weaken security posture or extend AWF boundaries
+- 🌟 [Grumpy Reviewer](https://github.com/github/gh-aw/blob/main/.github/workflows/grumpy-reviewer.md) - Strict code review with high standards
+- 🌟 [Copilot PR NLP Analysis](https://github.com/github/gh-aw/blob/main/.github/workflows/copilot-pr-nlp-analysis.md) - NLP analysis of pull request content
+- 🌟 [Breaking Change Checker](https://github.com/github/gh-aw/blob/main/.github/workflows/breaking-change-checker.md) - Identify potential breaking changes
+- 🌟 [PR Triage Agent](https://github.com/github/gh-aw/blob/main/.github/workflows/pr-triage-agent.md) - Categorize, assess risk, and prioritize agent-created pull requests with scoring and batch review recommendations
+- 🌟 [PR Nitpick Reviewer](https://github.com/github/gh-aw/blob/main/.github/workflows/pr-nitpick-reviewer.md) - Detail-oriented code review targeting style and convention issues that linters miss
+- 🌟 [Draft PR Cleanup](https://github.com/github/gh-aw/blob/main/.github/workflows/draft-pr-cleanup.md) - Automatically identify and clean up stale draft pull requests
+- 🌟 [Security Review](https://github.com/github/gh-aw/blob/main/.github/workflows/security-review.md) - Security-focused PR reviews to catch changes that weaken security posture or extend AWF boundaries
 
 ### Project Management
 
-- [Daily Backlog Burner](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-backlog-burner.md) - Process and triage backlog items daily
-- [Org Health Report](https://github.com/github/gh-aw/blob/main/.github/workflows/org-health-report.md) - Generate organization health metrics
-- [Daily QA](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-qa.md) - Daily quality assurance checks
+- 🌟 [Daily Backlog Burner](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-backlog-burner.md) - Process and triage backlog items daily
+- 🌟 [Org Health Report](https://github.com/github/gh-aw/blob/main/.github/workflows/org-health-report.md) - Generate organization health metrics
+- 🌟 [Daily QA](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-qa.md) - Daily quality assurance checks
 
 ### Code Quality
 
-- [CI Doctor](https://github.com/github/gh-aw/blob/main/.github/workflows/ci-doctor.md) - Diagnose and fix CI/CD issues
-- [Schema Consistency Checker](https://github.com/github/gh-aw/blob/main/.github/workflows/schema-consistency-checker.md) - Validate schema consistency
-- [Repository Quality Improver](https://github.com/github/gh-aw/blob/main/.github/workflows/repository-quality-improver.md) - Suggest repository improvements
-- [Functional Pragmatist](https://github.com/github/gh-aw/blob/main/.github/workflows/functional-pragmatist.md) - Improve functional programming patterns
-- [Go Module Usage Expert](https://github.com/github/gh-aw/blob/main/.github/workflows/go-fan.md) - Go module best practices
-- [Typist](https://github.com/github/gh-aw/blob/main/.github/workflows/typist.md) - TypeScript type improvements
-- [Code Simplifier](https://github.com/github/gh-aw/blob/main/.github/workflows/code-simplifier.md) - Analyze recently modified code and create pull requests with clarity and maintainability improvements
-- [Duplicate Code Detector](https://github.com/github/gh-aw/blob/main/.github/workflows/duplicate-code-detector.md) - Identify duplicated patterns across the codebase using semantic analysis and suggest refactoring opportunities
-- [Static Analysis Report](https://github.com/github/gh-aw/blob/main/.github/workflows/static-analysis-report.md) - Generate comprehensive static analysis reports for the codebase
-- [Super Linter](https://github.com/github/gh-aw/blob/main/.github/workflows/super-linter.md) - Run multi-language linting across the entire repository
+- 🌟 [CI Doctor](https://github.com/github/gh-aw/blob/main/.github/workflows/ci-doctor.md) - Diagnose and fix CI/CD issues
+- 🌟 [Schema Consistency Checker](https://github.com/github/gh-aw/blob/main/.github/workflows/schema-consistency-checker.md) - Validate schema consistency
+- 🌟 [Repository Quality Improver](https://github.com/github/gh-aw/blob/main/.github/workflows/repository-quality-improver.md) - Suggest repository improvements
+- 🌟 [Functional Pragmatist](https://github.com/github/gh-aw/blob/main/.github/workflows/functional-pragmatist.md) - Improve functional programming patterns
+- 🌟 [Go Module Usage Expert](https://github.com/github/gh-aw/blob/main/.github/workflows/go-fan.md) - Go module best practices
+- 🌟 [Typist](https://github.com/github/gh-aw/blob/main/.github/workflows/typist.md) - TypeScript type improvements
+- 🌟 [Code Simplifier](https://github.com/github/gh-aw/blob/main/.github/workflows/code-simplifier.md) - Analyze recently modified code and create pull requests with clarity and maintainability improvements
+- 🌟 [Duplicate Code Detector](https://github.com/github/gh-aw/blob/main/.github/workflows/duplicate-code-detector.md) - Identify duplicated patterns across the codebase using semantic analysis and suggest refactoring opportunities
+- 🌟 [Static Analysis Report](https://github.com/github/gh-aw/blob/main/.github/workflows/static-analysis-report.md) - Generate comprehensive static analysis reports for the codebase
+- 🌟 [Super Linter](https://github.com/github/gh-aw/blob/main/.github/workflows/super-linter.md) - Run multi-language linting across the entire repository
 
 ### Orchestration & Specialized
 
-- [Workflow Generator](https://github.com/github/gh-aw/blob/main/.github/workflows/workflow-generator.md) - Generate new workflows from descriptions
-- [Q](https://github.com/github/gh-aw/blob/main/.github/workflows/q.md) - Interactive Q&A workflow for assistance
-- [Daily Performance Improver](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-perf-improver.md) - Performance optimization suggestions
+- 🌟 [Workflow Generator](https://github.com/github/gh-aw/blob/main/.github/workflows/workflow-generator.md) - Generate new workflows from descriptions
+- 🌟 [Q](https://github.com/github/gh-aw/blob/main/.github/workflows/q.md) - Interactive Q&A workflow for assistance
+- 🌟 [Daily Performance Improver](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-perf-improver.md) - Performance optimization suggestions
 
 ### Security
 
-- [Code Scanning Fixer](https://github.com/github/gh-aw/blob/main/.github/workflows/code-scanning-fixer.md) - Automatically fix code scanning alerts by creating pull requests with remediation
-- [Security Compliance](https://github.com/github/gh-aw/blob/main/.github/workflows/security-compliance.md) - Check repository compliance against security standards and policies
-- [Daily Malicious Code Scan](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-malicious-code-scan.md) - Daily scan for malicious code patterns and supply chain threats
-- [Daily Security Red Team](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-security-red-team.md) - Daily adversarial security testing from a red team perspective
-- [Daily Semgrep Scan](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-semgrep-scan.md) - Daily static security analysis using Semgrep rules
+- 🌟 [Code Scanning Fixer](https://github.com/github/gh-aw/blob/main/.github/workflows/code-scanning-fixer.md) - Automatically fix code scanning alerts by creating pull requests with remediation
+- 🌟 [Security Compliance](https://github.com/github/gh-aw/blob/main/.github/workflows/security-compliance.md) - Check repository compliance against security standards and policies
+- 🌟 [Daily Malicious Code Scan](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-malicious-code-scan.md) - Daily scan for malicious code patterns and supply chain threats
+- 🌟 [Daily Security Red Team](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-security-red-team.md) - Daily adversarial security testing from a red team perspective
+- 🌟 [Daily Semgrep Scan](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-semgrep-scan.md) - Daily static security analysis using Semgrep rules
 
 ### Documentation
 
-- [Daily Doc Updater](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-doc-updater.md) - Automatically keep documentation in sync with code changes
-- [Technical Doc Writer](https://github.com/github/gh-aw/blob/main/.github/workflows/technical-doc-writer.md) - Generate technical documentation from code analysis
-- [Developer Docs Consolidator](https://github.com/github/gh-aw/blob/main/.github/workflows/developer-docs-consolidator.md) - Consolidate and normalize scattered developer documentation
-- [Docs Noob Tester](https://github.com/github/gh-aw/blob/main/.github/workflows/docs-noob-tester.md) - Validate documentation from a newcomer's perspective to find gaps and confusing sections
+- 🌟 [Daily Doc Updater](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-doc-updater.md) - Automatically keep documentation in sync with code changes
+- 🌟 [Technical Doc Writer](https://github.com/github/gh-aw/blob/main/.github/workflows/technical-doc-writer.md) - Generate technical documentation from code analysis
+- 🌟 [Developer Docs Consolidator](https://github.com/github/gh-aw/blob/main/.github/workflows/developer-docs-consolidator.md) - Consolidate and normalize scattered developer documentation
+- 🌟 [Docs Noob Tester](https://github.com/github/gh-aw/blob/main/.github/workflows/docs-noob-tester.md) - Validate documentation from a newcomer's perspective to find gaps and confusing sections
 
 ### Analytics & Reporting
 
-- [Copilot Session Insights](https://github.com/github/gh-aw/blob/main/.github/workflows/copilot-session-insights.md) - Analyze Copilot session data to surface usage patterns and insights
-- [Daily Code Metrics](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-code-metrics.md) - Track daily code quality trends across the repository
-- [Metrics Collector](https://github.com/github/gh-aw/blob/main/.github/workflows/metrics-collector.md) - Collect and aggregate workflow execution metrics for trend analysis
+- 🌟 [Copilot Session Insights](https://github.com/github/gh-aw/blob/main/.github/workflows/copilot-session-insights.md) - Analyze Copilot session data to surface usage patterns and insights
+- 🌟 [Daily Code Metrics](https://github.com/github/gh-aw/blob/main/.github/workflows/daily-code-metrics.md) - Track daily code quality trends across the repository
+- 🌟 [Metrics Collector](https://github.com/github/gh-aw/blob/main/.github/workflows/metrics-collector.md) - Collect and aggregate workflow execution metrics for trend analysis
 
 ## Shared Components
 
